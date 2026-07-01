@@ -319,7 +319,8 @@ Created relationships between all Fact and Dimension tables.
 Example:
 
 ```
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ad21c801-437c-4851-99c6-a1c2d10fe457" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/5a48d360-6fb1-4140-94e6-9073ac81598b" />
+
 ```
 
 ---
