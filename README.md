@@ -314,14 +314,13 @@ Created relationships between all Fact and Dimension tables.
 
 # 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 Example:
 
-```
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/5a48d360-6fb1-4140-94e6-9073ac81598b" />
 
-```
+<img width="960" height="540" alt="Screenshot 2026-07-01 112411" src="https://github.com/user-attachments/assets/d5fc6eae-0e71-49d4-8943-6620024fdb7b" />
+
+
 
 ---
 
