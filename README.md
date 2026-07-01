@@ -314,15 +314,8 @@ Created relationships between all Fact and Dimension tables.
 
 # 📷 Dashboard Preview
 
+<img width="960" height="540" alt="Screenshot 2026-07-01 112411" src="https://github.com/user-attachments/assets/d63b533f-50e9-46b9-997e-cb563beac330" />
 
-Example:
-
-
-<img width="960" height="540" alt="Screenshot 2026-07-01 112411" src="https://github.com/user-attachments/assets/d5fc6eae-0e71-49d4-8943-6620024fdb7b" />
-
-
-
----
 
 # 📁 Project Structure
 
